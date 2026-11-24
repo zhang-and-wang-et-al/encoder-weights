@@ -1,0 +1,3 @@
+*.joining
+/smp-hub__resnet50.imagenet/model.safetensors
+/timm__convnext_tiny.in12k_ft_in1k/model.safetensors
